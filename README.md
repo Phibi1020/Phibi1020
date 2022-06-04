@@ -12,7 +12,7 @@ I'm Phoebe. Ultimate student in Information Systems Engineering at Universiti Tu
 | 5   | FdF                                                              | 🔓     |   | 16  | CPP Module 03 | 🔒     |   | 27  | webserv                        | 🔒     |
 | 6   | [minitalk]            | 🔓     |   | 17  | CPP Module 04 | 🔒     |   | 28  | ft_transcendence               | 🔒     |
 | 7   | pipex                                                            | 🔓     |   | 18  | CPP Module 05 | 🔒     |   | 29  | libasm                         | 🔒     |
-| 8   | [push_swap]          | 📝     |   | 19  | CPP Module 06 | 🔒     |   | 30  | ft_newton                      | 🔒     |
+| 8   | [push_swap]          | 🔓     |   | 19  | CPP Module 06 | 🔒     |   | 30  | ft_newton                      | 🔒     |
 | 9   | so_long                                                          | 🔓     |   | 20  | CPP Module 07 | 🔒     |   |     |                                |        |
 | 10  | minishell                                                        | 🔒     |   | 21  | CPP Module 08 | 🔒     |   |     |                                |        |
 | 11  | Philosophers                                                     | 🔒     |   | 22  | miniRT        | 🔒     |   | 31  | netwhat                        |  ✅   |
