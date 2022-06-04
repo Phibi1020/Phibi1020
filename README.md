@@ -15,7 +15,7 @@ I'm Phoebe. Ultimate student in Information Systems Engineering at Universiti Tu
 | 8   | [push_swap]          | 🔓     |   | 19  | CPP Module 06 | 🔒     |   | 30  | ft_newton                      | 🔒     |
 | 9   | so_long                                                          | 🔓     |   | 20  | CPP Module 07 | 🔒     |   |     |                                |        |
 | 10  | minishell                                                        | 🔒     |   | 21  | CPP Module 08 | 🔒     |   |     |                                |        |
-| 11  | Philosophers                                                     | 🔒     |   | 22  | miniRT        | 🔒     |   | 31  | netwhat                        |  ✅   |
+| 11  | Philosophers                                                     | 🔒     |   | 22  | miniRT        | 🔒     |   | 31  | netwhat                        |  🔒   |
 
 
 ## 📱 Connect with me
